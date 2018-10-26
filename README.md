@@ -1,2 +1,2 @@
-# image-optimization-mac
+# Optimization image for macOS
 Optimization image for macOS
