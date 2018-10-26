@@ -1,0 +1,10 @@
+prefix=/usr/local/Cellar/mozjpeg/3.3.1
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libturbojpeg
+Description: A SIMD-accelerated JPEG codec that provides the TurboJPEG API
+Version: 3.3.1
+Libs: -L${libdir} -lturbojpeg
+Cflags: -I${includedir}
