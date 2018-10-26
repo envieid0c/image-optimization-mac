@@ -36,7 +36,7 @@ pngquant="$RESOURCESDIR/pngquant"
 jpegrecompress="$RESOURCESDIR/jpeg-recompress"
 cjpeg="$RESOURCESDIR/cjpeg"
 
-EXIFTOOL="$SELF_PATH/Resources/Image-ExifTool-11.15/exiftool"
+EXIFTOOL="$SELF_PATH/Resources/Image-ExifTool-11.16/exiftool"
 RECOMPRESS="$SELF_PATH/Resources/recompress"
 
 rebuildIcon=0
